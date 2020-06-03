@@ -50,3 +50,9 @@ print(check_response_code())
 - Therefore, you can simplify the last example by rewriting the if statement as above:
 
 # Amazing!!!
+
+### few tips 
+```markdown
+api.chucknorris.io/jokes/random
+https://api.chucknorris.io/jokes/random
+```
